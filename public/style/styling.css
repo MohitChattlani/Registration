@@ -1,0 +1,47 @@
+body
+{
+	text-align: center;
+}
+h1
+{
+	color: #4c8efa;
+	font-family:Verdana;
+	font-weight: bold;
+	margin-top: 100px;
+}
+div.form
+{
+	margin-left: 70px;
+	margin-right: 70px;
+	width: 1350px;
+	height: 300px;
+	background-color: #f2f2f2;
+	font-family: Verdana;
+	font-weight: bold;
+	color: #333
+}
+input[type=text]
+{
+	padding: 4px;
+	width: 20%;
+}
+select
+{
+	padding: 4px;
+}
+input[type=submit]
+{
+	letter-spacing: 1px;
+	padding: 6px;
+	width: 6%;
+	background-color: #4c8efa;
+	color: white;
+	border-radius: 7px;
+	font-weight: bold;
+}
+p.asterisk
+{
+	font-weight: normal;
+	margin-top: 100px;
+	font-family: arial;
+}
