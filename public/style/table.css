@@ -1,0 +1,30 @@
+td.key
+{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: georgia;
+	width: 60%;
+	background-color: blue;
+	color:white;
+}
+td.value
+{
+	font-family: georgia;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #e60073;
+	color: white;
+}
+tr.row
+{
+	height: 60px;
+}
+table
+{
+	text-align: left;
+	align-content: center;
+}
+div.msg
+{
+	font-size: 30px;
+}
